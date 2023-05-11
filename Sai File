@@ -1,0 +1,5 @@
+class test {
+public statsic void main (sting [] main) {
+system.out.println( "welcome to github");
+}
+}
